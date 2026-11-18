@@ -1,0 +1,28 @@
+BOB MARTINEZ
+Senior Full Stack Software Engineer
+bob.martinez@techmail.com | (212) 555-0144 | New York, NY | linkedin.com/in/bobmartinez-dev | github.com/bobmartinez
+
+PROFESSIONAL SUMMARY
+Versatile Senior Full Stack Developer with 5+ years of experience creating robust, high-traffic web applications. Proven track record in architecting modern frontend interfaces with React and Next.js, and high-performance backend microservices with Node.js and TypeScript.
+
+TECHNICAL SKILLS
+JavaScript, TypeScript, React, Next.js, Node.js, Express, Redux, HTML5, CSS3, Tailwind CSS, PostgreSQL, MongoDB, Redis, REST API, GraphQL, Docker, Git, CI/CD, GitHub Actions, Agile, Scrum
+
+WORK EXPERIENCE
+Senior Full Stack Developer | Horizon Web Solutions (2021 - Present)
+• Spearheaded frontend modernization to React 18, Next.js, and TypeScript, improving Core Web Vitals and initial page load speed by 42%.
+• Built distributed RESTful APIs and GraphQL endpoints in Node.js and Express handling 15,000 requests per minute with Redis caching.
+• Designed relational database schemas in PostgreSQL and optimized complex SQL queries for 3x performance gains.
+• Automated deployment workflows utilizing Docker and GitHub Actions CI/CD.
+
+Full Stack Web Developer | Creative Pulse Digital (2019 - 2021)
+• Engineered responsive web applications with React, Redux, and Tailwind CSS.
+• Built backend CRUD services using Node.js and MongoDB; integrated third-party payment and auth APIs.
+• Participated in agile sprints, daily standups, code reviews, and sprint retrospectives.
+
+EDUCATION
+Bachelor of Science in Software Engineering | University of Michigan (2019)
+
+KEY PROJECTS
+• DevStream: Real-time collaborative workspace built with Next.js, WebSockets, and Redis.
+• TaskMaster Pro: Multi-tenant kanban board application using React and PostgreSQL.

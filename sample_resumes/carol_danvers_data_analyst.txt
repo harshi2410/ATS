@@ -1,0 +1,28 @@
+CAROL DANVERS
+Senior Data Analyst & BI Consultant
+carol.danvers@analytix.com | (312) 555-0188 | Chicago, IL | linkedin.com/in/caroldanvers-data | github.com/caroldanvers
+
+PROFESSIONAL SUMMARY
+Results-oriented Senior Data Analyst with 5 years of experience delivering actionable business intelligence, enterprise dashboards, and predictive analytics. Advanced proficiency in SQL data extraction, Tableau/Power BI visualization, and Python analytical modeling.
+
+TECHNICAL SKILLS
+SQL, Python, Pandas, NumPy, Tableau, Power BI, Excel, Snowflake, BigQuery, Data Warehousing, ETL, Data Modeling, Feature Engineering, Matplotlib, Scikit-Learn, Business Intelligence, Problem Solving, Communication
+
+WORK EXPERIENCE
+Senior Data Analyst | Global Insights Group (2021 - Present)
+• Built and maintained 25+ executive dashboards in Tableau and Power BI tracking revenue, customer retention, and marketing ROI for C-suite leaders.
+• Developed automated ETL pipelines in Python (Pandas) and SQL, migrating analytics infrastructure to Snowflake and reducing reporting lag by 60%.
+• Conducted cohort analyses and statistical hypothesis testing to guide product roadmap decisions.
+
+Data Analyst | Midwest FinTech Solutions (2019 - 2021)
+• Analyzed customer transaction datasets exceeding 100M rows using complex SQL queries and window functions.
+• Built financial modeling spreadsheets in advanced Excel (VBA, Power Query, pivot tables).
+• Collaborated with engineering teams to ensure clean data ingestion into Google BigQuery.
+
+EDUCATION
+Master of Science in Business Analytics | Northwestern University (2019)
+Bachelor of Science in Statistics and Mathematics | University of Illinois (2017)
+
+KEY PROJECTS
+• Customer Churn Predictor: Predictive customer classification model using Python and Scikit-Learn.
+• Sales Performance Tracker: Interactive Power BI dashboard integrating multiple ERP data streams.

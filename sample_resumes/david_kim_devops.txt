@@ -1,0 +1,27 @@
+DAVID KIM
+Senior Cloud Infrastructure & DevOps Engineer
+david.kim@cloudinfra.net | (206) 555-0177 | Seattle, WA | linkedin.com/in/davidkim-cloud | github.com/davidkim-ops
+
+PROFESSIONAL SUMMARY
+Dedicated DevOps and Cloud Engineer with 5+ years of experience automating infrastructure, architecting resilient CI/CD pipelines, and managing containerized microservices in multi-cloud environments.
+
+TECHNICAL SKILLS
+AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, GitHub Actions, Linux, Bash, Python, Helm, Prometheus, Grafana, Microservices, Git, System Design, Problem Solving
+
+WORK EXPERIENCE
+Senior DevOps Engineer | CloudScale Systems (2021 - Present)
+• Provisioned and managed high-availability cloud infrastructure on AWS using Terraform (IaC) and Kubernetes (EKS).
+• Built automated CI/CD deployment pipelines using Jenkins and GitHub Actions, cutting release turnaround times from 3 days to 25 minutes.
+• Implemented cluster observability with Prometheus and Grafana dashboards, decreasing MTTR by 35%.
+
+Site Reliability Engineer | Beacon Tech (2019 - 2021)
+• Maintained Linux servers and containerized microservices with Docker across AWS and on-premise nodes.
+• Wrote automation scripts in Python and Bash for database backups, log rotation, and security auditing.
+• Administered Git version control workflows and managed access permissions across 80+ engineering repositories.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Washington (2019)
+
+KEY PROJECTS
+• KubeDeploy: Declarative CLI tool for zero-downtime Kubernetes deployments written in Python.
+• MultiCloud-Terraform-Kit: Modular Terraform repository for automated VPC, IAM, and cluster provisioning.

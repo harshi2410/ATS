@@ -1,0 +1,26 @@
+EVA PATEL
+Junior Software Engineer / Developer Intern
+eva.patel@studentmail.edu | (512) 555-0133 | Austin, TX | linkedin.com/in/evapatel-cs | github.com/evapatel
+
+PROFESSIONAL SUMMARY
+Enthusiastic and motivated Computer Science graduate with hands-on internship experience in software development. Strong foundational knowledge in Python, JavaScript, Git, and web technologies with an eagerness to learn modern ML and web frameworks.
+
+TECHNICAL SKILLS
+Python, JavaScript, HTML, CSS, Git, GitHub, SQL, SQLite, Object Oriented Programming, Unit Testing, Problem Solving, Communication
+
+WORK EXPERIENCE
+Software Engineering Intern | BrightPath Tech (Summer 2023)
+• Assisted engineering team in debugging and building REST API endpoints using Python and SQLite.
+• Developed responsive frontend UI components using HTML5, CSS3, and vanilla JavaScript.
+• Wrote unit tests and participated in sprint planning and daily standups.
+
+Undergraduate Teaching Assistant | University Computer Science Dept (2022 - 2023)
+• Tutored 60+ undergraduate students in introductory Python programming, data structures, and algorithms.
+• Graded weekly coding assignments and helped students troubleshoot code errors and Git merge conflicts.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Texas at Austin (Graduated May 2024)
+
+KEY PROJECTS
+• Campus Book Exchange: Web app built with Python Flask and SQLite for student book trading.
+• Weather Tracker: JavaScript application fetching live weather forecasts from external REST APIs.

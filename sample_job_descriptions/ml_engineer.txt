@@ -1,0 +1,23 @@
+Job Title: Senior Machine Learning / AI Engineer
+Department: Artificial Intelligence & Core Engineering
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for an experienced Senior Machine Learning Engineer to design, build, and deploy production-scale deep learning and generative AI systems. You will collaborate with cross-functional product and engineering teams to translate research into high-impact applications.
+
+Key Responsibilities:
+• Build and fine-tune large language models (LLM) and transformer-based architectures for NLP tasks.
+• Design end-to-end machine learning pipelines using PyTorch, TensorFlow, and Scikit-Learn.
+• Conduct feature engineering, data preprocessing, and exploratory data analysis using Pandas, NumPy, and SQL.
+• Containerize AI services with Docker and orchestrate them on Kubernetes (K8s) in cloud environments (AWS / GCP).
+• Implement robust CI/CD workflows, automated model evaluation, and monitoring for production deployments.
+• Work in an Agile environment, applying software engineering best practices including unit testing (Pytest), Git version control, and system design.
+
+Required Qualifications & Skills:
+• Bachelor's or Master's degree in Computer Science, Data Science, or related field.
+• 4+ years of hands-on experience in Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+• Proficiency in Python programming and core ML libraries: PyTorch, TensorFlow, Scikit-Learn, Pandas, and NumPy.
+• Experience with Transformers, Hugging Face, LLMs, and RAG architectures.
+• Hands-on experience with SQL databases and big data pipelines.
+• Familiarity with Cloud and DevOps tools: AWS, Docker, Kubernetes, and CI/CD pipelines.
+• Strong problem solving, analytical thinking, and collaboration skills.

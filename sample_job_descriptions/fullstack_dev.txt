@@ -1,0 +1,23 @@
+Job Title: Senior Full Stack Developer
+Department: Web Platforms & Engineering
+Location: San Francisco, CA / Remote
+
+About the Role:
+We are seeking a talented Senior Full Stack Developer to lead the development of modern web applications. You will be responsible for creating intuitive frontend interfaces and scalable backend services.
+
+Key Responsibilities:
+• Build high-performance frontend interfaces using React, Next.js, TypeScript, and modern CSS/Tailwind.
+• Architect and develop scalable backend microservices and RESTful APIs using Node.js, Express, and PostgreSQL.
+• Integrate state management with Redux and real-time features using WebSockets and GraphQL.
+• Collaborate with UI/UX designers and product managers in an Agile/Scrum team.
+• Deploy and maintain applications in containerized environments using Docker and CI/CD pipelines (GitHub Actions).
+• Ensure high code quality through unit testing, code reviews, and Git version control.
+
+Required Qualifications & Skills:
+• Bachelor's degree in Computer Science, Software Engineering, or equivalent experience.
+• 4+ years of professional full-stack web development experience.
+• Strong proficiency in JavaScript, TypeScript, React, Next.js, and Node.js.
+• Experience with relational and NoSQL databases: PostgreSQL, MongoDB, and Redis.
+• Deep understanding of REST API and GraphQL design.
+• Practical knowledge of Docker, CI/CD, Git, and Linux.
+• Excellent communication and problem-solving abilities.

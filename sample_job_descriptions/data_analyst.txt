@@ -1,0 +1,21 @@
+Job Title: Senior Data Analyst & BI Specialist
+Department: Business Intelligence & Data Analytics
+Location: New York, NY / Hybrid
+
+About the Role:
+We are looking for a Senior Data Analyst to empower business decision-making through actionable insights, interactive dashboards, and advanced data modeling.
+
+Key Responsibilities:
+• Extract, transform, and analyze complex datasets from enterprise data warehouses (Snowflake, BigQuery).
+• Design, build, and maintain executive BI dashboards in Tableau and Power BI.
+• Write optimized SQL queries and conduct exploratory data analysis using Python, Pandas, and NumPy.
+• Collaborate with cross-functional stakeholders to define KPIs and deliver data-driven recommendations.
+• Build automated ETL data pipelines and validate data integrity with Excel modeling.
+
+Required Qualifications & Skills:
+• Bachelor's or Master's degree in Statistics, Mathematics, Computer Science, or Business Analytics.
+• 3+ years of experience in data analysis, BI reporting, and business intelligence.
+• Advanced SQL skills and proficiency in Python (Pandas, NumPy, Matplotlib/Seaborn).
+• Proven track record with Tableau and Power BI dashboard creation.
+• Experience with cloud data warehouses such as Snowflake or BigQuery, and ETL processes.
+• Exceptional analytical, problem solving, and presentation skills.

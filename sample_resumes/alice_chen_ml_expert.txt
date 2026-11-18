@@ -1,0 +1,28 @@
+ALICE CHEN
+Lead Machine Learning & AI Engineer
+alice.chen@email.com | (415) 555-0192 | San Francisco, CA | linkedin.com/in/alicechen-ai | github.com/alicechen
+
+PROFESSIONAL SUMMARY
+Innovative Lead Machine Learning Engineer with 6+ years of experience designing and deploying scalable deep learning, NLP, and generative AI systems. Expert in fine-tuning large language models (LLM), building transformer pipelines, and architecting production ML pipelines on AWS and Kubernetes.
+
+TECHNICAL SKILLS
+Python, PyTorch, TensorFlow, Scikit-Learn, Deep Learning, Natural Language Processing, NLP, Transformers, Hugging Face, LLM, RAG, Pandas, NumPy, SQL, Docker, Kubernetes, AWS, CI/CD, Git, Pytest, System Design
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | Nexus AI Labs (2022 - Present)
+• Architected and deployed retrieval-augmented generation (RAG) and LLM fine-tuning pipelines using PyTorch, Hugging Face, and LangChain, serving over 2M monthly queries.
+• Built deep learning models for NLP classification and sentiment analysis, achieving 94.6% F1 score using Transformers and Scikit-Learn.
+• Containerized AI microservices using Docker and orchestrated multi-GPU inference clusters on AWS EKS (Kubernetes) with automated CI/CD.
+
+Machine Learning Engineer | Apex Data Systems (2019 - 2022)
+• Developed automated data pipelines and feature engineering pipelines processing 50M+ daily records using Python, Pandas, and SQL.
+• Trained and optimized XGBoost and TensorFlow models for recommendation systems, driving 18% lift in user engagement.
+• Mentored 4 junior engineers in machine learning engineering, unit testing, and agile best practices.
+
+EDUCATION
+Master of Science in Computer Science (Artificial Intelligence Focus) | Stanford University (2019)
+Bachelor of Science in Computer Engineering | UC Berkeley (2017)
+
+KEY PROJECTS
+• OpenRAG: Open-source high-throughput LLM retrieval engine built with PyTorch and FAISS.
+• BioBERT-NER: Biomedical named entity recognition system utilizing transformer embeddings.
